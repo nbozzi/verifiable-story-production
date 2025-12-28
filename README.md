@@ -107,3 +107,8 @@ Public claims such as
 require **explicit written authorization** by the framework owner.
 
 This repository does not constitute legal advice.
+
+## Whitepaper
+The full VSP whitepaper (PDF):
+docs/VSP_Whitepaper_v1.1.pdf
+
