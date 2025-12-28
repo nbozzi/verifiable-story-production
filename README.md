@@ -76,7 +76,7 @@ The canonical narrative and specification of VSP is published by the framework�
 [https://nirabozkurt.substack.com/p/verifiable-story-production-vsp-the](https://nirabozkurt.substack.com/p/verifiable-story-production-vsp-the)
 
 Academic / archival reference (DOI):
-👉 DOI: 10.5281/zenodo.18075233
+👉 DOI: [https://doi.org/10.5281/zenodo.18075233)
 
 ---
 
