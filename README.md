@@ -2,7 +2,7 @@
 
 **A governance framework for auditability and defensibility in AI-assisted media production.**
 
-VVerifiable Story Production (VSP) is a governance and process standard for professional, AI-assisted storytelling workflows.
+Verifiable Story Production (VSP) is a governance and process standard for professional, AI-assisted storytelling workflows.
 It addresses a core industry shift:
 
 > From asking **“Is it real?”** to asking **“Is it defensible?”**
